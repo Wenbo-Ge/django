@@ -1,0 +1,1 @@
+# django practice and understandings
