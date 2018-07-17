@@ -10,3 +10,6 @@ templates folder(html); static folder(css and js)
 
 # use pycharm debug to run
 choose right interpreter and install correct packages under that interpreter
+
+# wordpress framework
+header.php(include js and css),templates.php(body with html),footer.php
